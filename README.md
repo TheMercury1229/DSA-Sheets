@@ -15,7 +15,11 @@ Solutions to the famous Neetcode 150 problems - a curated list of 150 LeetCode p
 - `nc_03_TwoSum.cpp` - Two Sum
 - `nc_04_GroupAnagrams.cpp` - Group Anagrams
 - `nc_05_TopKFrequentElements.cpp` - Top K Frequent Elements
+- `nc_06_EncodeAndDecodeString.cpp` - Encode and Decode String
 - `nc_07_ProductOfArrayExceptSelf.cpp` - Product of Array Except Self
+- `nc_08_ValidSudoku.cpp` - Valid Sudoku
+- `nc_09_LongestConsecutiveSequence.cpp` - Longest Consecutive Sequence
+- `nc_10_ValidPalindrome.cpp` - Valid Palindrome
 
 ## Future Plans
 
